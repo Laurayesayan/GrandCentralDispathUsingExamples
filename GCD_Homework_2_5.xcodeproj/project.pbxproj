@@ -13,6 +13,8 @@
 		F79CED7D241E516B00556B50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F79CED7B241E516B00556B50 /* Main.storyboard */; };
 		F79CED7F241E516C00556B50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F79CED7E241E516C00556B50 /* Assets.xcassets */; };
 		F79CED82241E516C00556B50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F79CED80241E516C00556B50 /* LaunchScreen.storyboard */; };
+		F79CED8A241E5D2E00556B50 /* BlurViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F79CED89241E5D2E00556B50 /* BlurViewController.swift */; };
+		F79CED8C241E89FE00556B50 /* PrimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F79CED8B241E89FE00556B50 /* PrimeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		F79CED7E241E516C00556B50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F79CED81241E516C00556B50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F79CED83241E516C00556B50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F79CED89241E5D2E00556B50 /* BlurViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurViewController.swift; sourceTree = "<group>"; };
+		F79CED8B241E89FE00556B50 /* PrimeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				F79CED77241E516B00556B50 /* SceneDelegate.swift */,
 				F79CED79241E516B00556B50 /* ViewController.swift */,
 				F79CED7B241E516B00556B50 /* Main.storyboard */,
+				F79CED8B241E89FE00556B50 /* PrimeViewController.swift */,
+				F79CED89241E5D2E00556B50 /* BlurViewController.swift */,
 				F79CED7E241E516C00556B50 /* Assets.xcassets */,
 				F79CED80241E516C00556B50 /* LaunchScreen.storyboard */,
 				F79CED83241E516C00556B50 /* Info.plist */,
@@ -141,6 +147,8 @@
 				F79CED7A241E516B00556B50 /* ViewController.swift in Sources */,
 				F79CED76241E516B00556B50 /* AppDelegate.swift in Sources */,
 				F79CED78241E516B00556B50 /* SceneDelegate.swift in Sources */,
+				F79CED8A241E5D2E00556B50 /* BlurViewController.swift in Sources */,
+				F79CED8C241E89FE00556B50 /* PrimeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
